@@ -1,0 +1,9 @@
+{
+  "uuid": "bluetooth-panel@dannym04",
+  "name": "Bluetooth Panel",
+  "description": "Shows battery levels of connected Bluetooth devices",
+  "shell-version": ["46", "47"],
+  "version": 1,
+  "author": "Danny McGuinness",
+  "url": "https://github.com/DannyM04/bluetooth-panel"
+}
